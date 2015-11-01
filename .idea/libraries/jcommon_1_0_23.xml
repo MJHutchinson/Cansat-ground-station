@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jcommon-1.0.23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Libraries/jcommon-1.0.23/jcommon-1.0.23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Libraries/jcommon-1.0.23/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../Libraries/jcommon-1.0.23/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
